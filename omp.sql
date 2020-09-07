@@ -20,8 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `omp`
 --
-CREATE DATABASE omp;
-USE DATABASE omp;
+
 -- --------------------------------------------------------
 
 --
